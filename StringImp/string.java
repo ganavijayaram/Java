@@ -16,6 +16,9 @@ public class string {
         str.length();
         str.replace("a", "b");
         str.startsWith(str);
+        str.trim();
+        str.equals(str);
+        str.strip();
     }
 
 }
